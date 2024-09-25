@@ -11,7 +11,7 @@
 |**cd -**                     |_Zurück ins vorherige Verzeichnis._| 
 |**pushd**                    |_Geht zum gemerkten Verzeichnis und merkt sich das momentane Verzeichnis_| 
 |**pupd**                     |_Geht zum gemerkten Verzeichnis ohne sich das momentane zu merken._| 
-|rm                       |Der Befehl rm löscht **unwiderruflich** Dateien.| 
+|**_Dateien ansehen_**| 
 |rm                       |Der Befehl rm löscht **unwiderruflich** Dateien.| 
 |rm                       |Der Befehl rm löscht **unwiderruflich** Dateien.| 
 |rm                       |Der Befehl rm löscht **unwiderruflich** Dateien.| 
