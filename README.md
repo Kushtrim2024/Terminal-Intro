@@ -2,7 +2,7 @@
 
 |**Linux Terminal Befehl**|**Erklärung**|
 |-------------------------|-------------|
-|**_<span style="color:blue">Bewegen im Dateisystem/Verzeichnisse</span>_**| 
+|**_<code style="color:blue">Bewegen im Dateisystem/Verzeichnisse</code>_**| 
 |**ls**                       |_Dateien anzeigen_| 
 |**ls -l**                    |_Mehr Informationen anzeigen._| 
 |**ls -a**                    |_Auch unsichtbare Dateien anzeigen._| 
