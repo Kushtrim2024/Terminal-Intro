@@ -2,14 +2,32 @@
 
 |**Linux Terminal Befehl**|**Erklärung**|
 |-------------------------|-------------|
-|rm                       |Der Befehl rm löscht **unwiderruflich** Dateien. 
-Nützliche Flags:
+|**_Bewegen im Dateisystem/Verzeichnisse_**| 
+|**ls**                       |_Dateien anzeigen_| 
+|**ls -l**                    |_Mehr Informationen anzeigen._| 
+|**ls -a**                    |_Auch unsichtbare Dateien anzeigen._| 
+|**cd ..**                    |_Ein Verzeichnis nach oben._| 
+|**cd ../..**                 |_Zwei Verzeichnisse nach oben._| 
+|**cd -**                     |_Zurück ins vorherige Verzeichnis._| 
+|**pushd**                    |_Geht zum gemerkten Verzeichnis und merkt sich das momentane Verzeichnis_| 
+|**pupd**                     |_Geht zum gemerkten Verzeichnis ohne sich das momentane zu merken._| 
+|rm                       |Der Befehl rm löscht **unwiderruflich** Dateien.| 
+|rm                       |Der Befehl rm löscht **unwiderruflich** Dateien.| 
+|rm                       |Der Befehl rm löscht **unwiderruflich** Dateien.| 
+|rm                       |Der Befehl rm löscht **unwiderruflich** Dateien.| 
+|rm                       |Der Befehl rm löscht **unwiderruflich** Dateien.| 
+|rm                       |Der Befehl rm löscht **unwiderruflich** Dateien.| 
+|rm                       |Der Befehl rm löscht **unwiderruflich** Dateien.| 
+|rm                       |Der Befehl rm löscht **unwiderruflich** Dateien.| 
+|rm                       |Der Befehl rm löscht **unwiderruflich** Dateien.| 
+|rm                       |Der Befehl rm löscht **unwiderruflich** Dateien.| 
+|rm                       |Der Befehl rm löscht **unwiderruflich** Dateien.| 
+|rm                       |Der Befehl rm löscht **unwiderruflich** Dateien.| 
+|rm                       |Der Befehl rm löscht **unwiderruflich** Dateien.| 
+|rm                       |Der Befehl rm löscht **unwiderruflich** Dateien.| 
+|rm                       |Der Befehl rm löscht **unwiderruflich** Dateien.| 
+|rm                       |Der Befehl rm löscht **unwiderruflich** Dateien.| 
+|rm                       |Der Befehl rm löscht **unwiderruflich** Dateien.| 
+|rm                       |Der Befehl rm löscht **unwiderruflich** Dateien.| 
 
-    -f steht für force (erzwingen) und erzwingt etwas. Im Fall von rm -f das Löschen der Datei
-    -r steht für recrusive (rekrusiv) und muss beim Löschen von Ordnern angegeben werden, damit wird gesagt, dass alles, auch im Ordner gelöscht werden soll. Beispiel: rm -r ordnerA löscht alles im OrdnerA inklusive diesen.
 
-Beispiel Kombination Flag -r und -f
-
-In diesem Beispiel lösche ich ein Verzeichnis rekursiv (-r) UND bestätige (-f) das alles im Ordner gelöscht werden soll.
-
-    rm -rf /home/marcuswoy/dasVerzeichnisLoeschen
